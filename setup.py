@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='BakkesMod-Plugin-Updator',
-    version='2.3.2',
+    version='1.3.0-alpha',
     packages=[''],
     url='https://github.com/GreenMachine582/BakkesMod-Plugin-Updator',
     license='MIT',
