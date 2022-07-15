@@ -14,7 +14,7 @@ import tkinter as tk
 from tkinter.messagebox import showinfo, showerror
 
 
-__version__ = '2.3.2'
+__version__ = '1.3.0'
 __date__ = '15/07/2022'
 
 
