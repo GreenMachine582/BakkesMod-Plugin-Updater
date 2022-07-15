@@ -1,0 +1,4 @@
+####  Directories  ####
+
+download_dir=C:\Users\Matthew\Downloads
+bakkesmod_dir=C:\Users\Matthew\AppData\Roaming\bakkesmod\bakkesmod
